@@ -1,7 +1,5 @@
-import matplotlib.pyplot as plt
-from matplotlib import style
+
 import numpy as np
-style.use('ggplot')
 from pandas import read_csv, concat,DataFrame as df
 from sklearn import svm
 
